@@ -28,4 +28,4 @@ python eval.py
 ## Links
 - Kaggle Notebook: (https://www.kaggle.com/code/sonukumarg25ait2110/notebooka67b3c844b)
 - Hugging Face Model: [https://huggingface.co/Sonu-kumar-IIT/distilbert-goodreads-genres](https://huggingface.co/Sonu-kumar-IIT/distilbert-goodreads-genres)
-- W&B Dashboard: (https://wandb.ai/g25ait2110-prom-iit-rajasthan/mlops-assignment2/runs/m69vvmnf?nw=nwuserg25ait2110)
+- W&B Dashboard: https://wandb.ai/mlops-assignment2/mlops-assignment2/runs/mv7isjs6
